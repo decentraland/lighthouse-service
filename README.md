@@ -1,5 +1,9 @@
 # template-server
 
+## ⚠️ Deprecation notice
+
+This repository was intended to replace the legacy `lighthouse` server, but it is not necessary on the latest comms architecture.
+
 ## Architecture
 
 Extension of "ports and adapters architecture", also known as "hexagonal architecture".
